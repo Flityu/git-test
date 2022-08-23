@@ -9,4 +9,5 @@ function throttled(fn, delay=500) {
     }
   }
 }
+
 export default throttled
